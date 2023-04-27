@@ -1,0 +1,42 @@
+ {
+  "id":1,
+  "Name":"Luffy",
+  "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
+  "HamDoi":"Mũ Rơm",
+  "ChucVu":"Thuyền Trưởng",
+  "Price":"300.000.000$"
+},
+{
+  "id":2,
+  "Name":"Zoro",
+  "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
+  "HamDoi":"Mũ Rơm",
+  "ChucVu":"Thuyền Phó",
+  "Price":"150.000.000$"
+},
+{
+  "id":3,
+  "Name":"Sanji",
+  "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
+  "HamDoi":"Mũ Rơm",
+  "ChucVu":"Thuyền viên",
+  "Price":"120.000.000$"
+},
+{
+  "id":4,
+  "Name":"Brook",
+  "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
+  "HamDoi":"Mũ Rơm",
+  "ChucVu":"Nhạc Công",
+  "Price":"90.000.000$"
+},
+{
+  "id":5,
+  "Name":"Franky",
+  "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
+  "HamDoi":"Mũ Rơm",
+  "ChucVu":"Sửa Tàu",
+  "Price":"60.000.000$"
+}
+
+]
