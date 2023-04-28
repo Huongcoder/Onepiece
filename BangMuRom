@@ -1,5 +1,4 @@
  {
-  "UserID":1,
   "id":1,
   "Name":"Luffy",
   "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
@@ -8,7 +7,6 @@
   "Price":"300.000.000$"
 },
 {
-  "UserID":1,
   "id":2,
   "Name":"Zoro",
   "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
@@ -17,7 +15,6 @@
   "Price":"150.000.000$"
 },
 {
- "UserID":1,
   "id":3,
   "Name":"Sanji",
   "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
@@ -26,7 +23,6 @@
   "Price":"120.000.000$"
 },
 {
-  "UserID":1,
   "id":4,
   "Name":"Brook",
   "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
@@ -35,7 +31,6 @@
   "Price":"90.000.000$"
 },
 {
-  "UserID":1,
   "id":5,
   "Name":"Franky",
   "Img":"https://inkythuatso.com/uploads/thumbnails/800/2022/03/2665651-15-15-34-30.jpg",
